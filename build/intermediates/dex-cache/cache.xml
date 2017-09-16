@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rv/AndroidStudioProjects/Do-ItIndia/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/rv/AndroidStudioProjects/Do-ItIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4881ed59167a4653207a628f381907d21417f272/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rv/.android/build-cache/ed8407c13903ccee95787f9dde0bcc62aa1f1aa3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/rv/AndroidStudioProjects/Do-ItIndia/app/build/intermediates/pre-dexed/debug/classes_9a56b4d16476bf44a42d221fe42eebbabffbec02.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rv/AndroidStudioProjects/Do-ItIndia/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78d981942f0d2eea8709473bcc6b4dc8d2a27621">
+        <dex dex="/home/rv/AndroidStudioProjects/Do-ItIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5dbe0c624fc8155822ec74e17df7ae03ad521215/classes.dex" />
+    </item>
+
+</items>

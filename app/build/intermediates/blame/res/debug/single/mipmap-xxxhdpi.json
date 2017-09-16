@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-ItIndia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/rv/AndroidStudioProjects/Do-ItIndia/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rv/AndroidStudioProjects/Do-ItIndia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/rv/AndroidStudioProjects/Do-ItIndia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
